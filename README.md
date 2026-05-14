@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wissem
+# Hi, I'm Wissem
 
 Self-taught developer building full-stack web apps. I care about writing clean code and making things that actually work.
 
