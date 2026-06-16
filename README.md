@@ -5,7 +5,7 @@ Self-taught developer building full-stack web apps. I care about writing clean c
 ---
 
 **What I work with:**
-React, Node.js, Express, PostgreSQL, Git, Linux. Learning Next.js and diving deeper into backend development - things like API design, database optimization, and server architecture.
+React, Node.js, Express, Git, Linux. Learning Next.js and diving deeper into backend development - things like API design, database optimization, and server architecture.
 
 ---
 
