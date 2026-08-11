@@ -1,5 +1,7 @@
 Hi, I'm Wissem
-**Self-taught** developer focused on backend development. I care about understanding how things actually work under the hood, not just gluing pieces together — mostly because I learned the hard way that "it works" and "I know why it works" are different things.
+**Self-taught** developer focused on backend development. 
+I care about understanding how things actually work under the hood, 
+not just gluing pieces together — mostly because I learned the hard way that "it works" and "I know why it works" are different things.
 What I **work with**:
 Node.js, Express, MongoDB, PostgreSQL, TypeScript, Git, Linux.
 Recently shipped:
