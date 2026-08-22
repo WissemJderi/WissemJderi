@@ -1,21 +1,24 @@
-Hi, I'm Wissem
-**Self-taught** developer focused on backend development. 
+# Hi, I'm Wissem
 
-I care about understanding how things actually work under the hood, 
+Self-taught developer focused on backend development.
 
-not just gluing pieces together — mostly because I learned the hard way that "it works" and "I know why it works" are different things.
+I care about understanding how things actually work under the hood, not just
+gluing pieces together — I learned the hard way that "it works" and "I know why
+it works" are different things.
 
-What I **work with**:
+**What I work with**
 
-Node.js, Express, MongoDB, PostgreSQL, TypeScript, Git, Linux.
+Node.js, Express, TypeScript, PostgreSQL, MongoDB, Git, Linux.
 
-Recently shipped:
+**Recently shipped**
 
-Pwnfolio — a full-stack CTF writeup platform, built and deployed end to end (schema-driven validation, auth, testing, production deploy).
+[Pwnfolio](https://github.com/WissemJderi/pwnfolio) — a full-stack CTF writeup
+platform, built and deployed end to end. Schema-driven validation, JWT auth, 100 tests.
 
-Looking for:
+**Security**
 
-Junior backend roles, remote. Still learning, still asking questions — open to working with people who know more than I do.
+CTFs and PortSwigger labs, mostly web. I publish my own writeups on Pwnfolio.
 
-What I believe:
-**Keep it simple**. Simplicity is a habit, not a default. Build things that last.
+**Looking for**
+
+Junior backend roles, remote — wissemjderi@outlook.com
